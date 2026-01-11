@@ -5,7 +5,7 @@
 This repository contains our work for Embeddathon ’26, an embedded systems challenge set in the ShrimpHub Reef theme. The project consists of six tasks that test core embedded skills such as precise timing, multitasking, communication, image processing, and display control.
 
 Each task is implemented according to the challenge requirements, with clear code structure and documentation. The goal of the project is to progressively solve all challenges and uncover the final hidden message while demonstrating practical embedded system design and problem-solving skills.
-## Vedio links 
+## Video links 
 ## Build Instructions
 
 1. Install Arduino IDE / PlatformIO.
